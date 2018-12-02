@@ -1,2 +1,4 @@
 bin/
 input*.txt
+*.vcd
+a.out
